@@ -1,0 +1,4 @@
+runtime: nodejs20
+
+automatic_scaling:
+    min_idle_instances: 1
